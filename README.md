@@ -12,6 +12,9 @@ plotting basics
 
 
 import matplotlib.pyplot as plt
+
 plt.plot(x-axis, y-axis, lw=2)
+
 plt.plot([1,2,3,4], [1,4,9,16], lw=2)
+
 plt.show()
